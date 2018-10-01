@@ -1,4 +1,2 @@
-print("Enter the string ")
-s=input()
-s=s[::-1]
-print("The reversed string is ",s)
+s=input("Enter the string ")
+print("The reversed string is ",s[::-1])
